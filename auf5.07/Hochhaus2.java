@@ -18,6 +18,7 @@ public class Hochhaus2
          System.out.println("    |  | |    | |  |  ");
          System.out.println("    |  ---    ---  |  ");
       }
+        
       System.out.println("    |  HOTEL  ___  |  ");
       System.out.println("    |  |  |   | |  |  ");
       System.out.println("    |  |  |   ---  |  ");
