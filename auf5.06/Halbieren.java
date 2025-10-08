@@ -1,5 +1,4 @@
 public class Halbieren
-
 { 
     public static void main (String[] args)
     {
@@ -8,7 +7,6 @@ public class Halbieren
 
        a = 6;
        b = 400;
-       
       
        for( int i = 1; i <= a; i++)
        {
@@ -16,5 +14,4 @@ public class Halbieren
           b = b / 2;
        } 
     }
-
 }
